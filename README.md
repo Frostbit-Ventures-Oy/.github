@@ -1,2 +1,2 @@
-# .github
-Frostbit Ventures Oy - Software from Finland
+# Frostbit Ventures Oy
+Software from Finland
